@@ -57,15 +57,6 @@ The system uses an **ElevenLabs voice agent** to speak with customers and gather
 Savannah, GA 31406  
 📞 +1 (912) 349-4261  
 
----
-
-## 🔗 Voice Agent Link
-
-You can test the voice agent here:  
-https://elevenlabs.io/app/talk-to?agent_id=agent_4501k81v340afew9z5bxyzr7xn0b
-
----
-
 ## ⚙️ Requirements
 
 - ElevenLabs account  
